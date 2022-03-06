@@ -1,0 +1,2 @@
+as1212,banh ngot,30000.0,4.0
+as0001,banh bong lan,30000.0,4.0
